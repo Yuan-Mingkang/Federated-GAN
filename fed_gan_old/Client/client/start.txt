@@ -1,0 +1,1 @@
+python client/client_gan_train_v2.py --batch_size 3  --server_ip '10.2.28.199' --port 50013 --niter 400 --niter_decay 100 &
